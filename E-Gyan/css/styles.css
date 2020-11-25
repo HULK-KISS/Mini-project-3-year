@@ -1,0 +1,80 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+  background-image: url(https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+}
+/*top section  */
+
+#top{
+  background-color: #008080;
+  padding: 2%;
+}
+
+/* Middle section */
+/*Heading sections  */
+.heading_m4{
+  color: lightblue;
+  padding: 25% 0% 5% 0%;
+}
+
+.heading_m1{
+  color: white;
+}
+/* paragraph section */
+.paragaph_m1{
+  color: white;
+  padding: 1% 0% 10% 0%;
+}
+p{
+  color: lightblue;
+}
+.feature-title{
+  color: green;
+}
+.container-fluid{
+  padding: 2%;
+}
+
+.colored-section1{
+  background-image: url(https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 20%;
+}
+
+/* #features{
+  padding-bottom: 20%;
+} */
+
+#middle{
+  padding: 1%;
+  text-align: left;
+}
+
+/* Bottom section */
+.bottom{
+  background-color: #008080;
+  padding: 2%;
+  word-spacing: 5px;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+
+.e{
+  color: darkblue;
+}
+.b{
+  color: green;
+  text-align: left;
+}
+.c{
+  color:white;
+  text-align: left;
+}
